@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*#[ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Admin/CLionProjects/CountWordsInATextFile/main.cpp
+iostream
+-
+vector
+-
+cstring
+-
+fstream
+-
+thread
+-
+cmath
+-
+sstream
+-
+map
+-
+stdlib.h
+-
+mutex
+-
+atomic
+-
+

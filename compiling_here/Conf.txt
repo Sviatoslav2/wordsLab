@@ -1,0 +1,4 @@
+FileData == Data.txt
+FileForWritingSortingByNumber == CountingNumber.txt
+FileForWritingSortingByAlphabet == Alphabet.txt
+NThreds == 6

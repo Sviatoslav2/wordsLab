@@ -1,0 +1,3 @@
+/mnt/c/Users/Admin/CLionProjects/CountWordsInATextFile/compiling_here/CMakeFiles/edit_cache.dir
+/mnt/c/Users/Admin/CLionProjects/CountWordsInATextFile/compiling_here/CMakeFiles/rebuild_cache.dir
+/mnt/c/Users/Admin/CLionProjects/CountWordsInATextFile/compiling_here/CMakeFiles/CountWordsInATextFile.dir
